@@ -2,7 +2,7 @@ name: Ray
 on: push
 jobs:
   build:
-    name: lanchRay
+    name: Ray1234
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1

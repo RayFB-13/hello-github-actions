@@ -1,4 +1,4 @@
-name: Ray
+name: Ray's job toggels
 on: push
 jobs:
   build:

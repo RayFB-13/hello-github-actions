@@ -1,8 +1,8 @@
-name: A workflow for my Hello World file
+name: Ray
 on: push
 jobs:
   build:
-    name: Hello world action
+    name: lanchRay
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1

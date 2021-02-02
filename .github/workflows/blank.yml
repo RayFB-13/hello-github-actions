@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: bopchick
+name: bopRRR
 
 # Controls when the action will run. 
 on:
@@ -27,7 +27,7 @@ jobs:
 
 
       # Runs a set of commands using the runners shell
-      - name: oof
+      - name: oofRRR
         run: |
           echo oof
-          echo oof
+          echo RRR

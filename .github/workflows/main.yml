@@ -1,8 +1,8 @@
-name: Ray1234's job toggels
+name: Ray's job toggels
 on: push
 jobs:
   build:
-    name: Ray1234
+    name: Ray
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1

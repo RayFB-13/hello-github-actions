@@ -26,6 +26,8 @@ jobs:
           echo RRR
           echo oofRRR
           echo boop beep bop error
+          echo lala
+          
           
           
 

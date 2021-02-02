@@ -31,3 +31,8 @@ jobs:
         run: |
           echo oof
           echo RRR
+          echo oofRRR
+          echo boop beep bop error
+          
+          
+
